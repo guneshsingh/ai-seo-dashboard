@@ -17,3 +17,7 @@ An AI-powered SEO Dashboard built as part of the FlyRank Frontend AI Engineering
 
 ## Status
 🚀 Project setup completed.
+## Future Improvements
+- Add AI-powered SEO recommendations
+- Include analytics charts
+- Support multiple websites
