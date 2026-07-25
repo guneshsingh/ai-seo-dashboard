@@ -28,3 +28,10 @@ An AI-powered SEO Dashboard built as part of the FlyRank Frontend AI Engineering
 2. Open the project in VS Code.
 3. Install dependencies using `npm install` (when dependencies are added).
 4. Run the project locally.
+
+## Roadmap
+
+- [x] Project setup completed
+- [ ] Build the frontend dashboard
+- [ ] Add AI-powered SEO analysis
+- [ ] Deploy the application
